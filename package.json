@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MediaComem/superrest.git"
+    "url": "git+https://github.com/KimGenius/nurigo-superrest.git"
   },
   "keywords": [
     "supertest",
@@ -31,9 +31,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MediaComem/superrest/issues"
+    "url": "https://github.com/KimGenius/nurigo-superrest/issues"
   },
-  "homepage": "https://github.com/MediaComem/superrest#readme",
+  "homepage": "https://github.com/KimGenius/nurigo-superrest/#readme",
   "files": [
     "index.js",
     "LICENSE.txt",
